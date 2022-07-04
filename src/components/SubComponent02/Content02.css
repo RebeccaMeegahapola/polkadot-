@@ -1,0 +1,36 @@
+.rowN:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column0{
+    float: left;
+    width: 25%;
+    padding: 0px;
+    height: 300px;
+}
+
+.imageN {
+    width: 200px;
+    height:200px;
+    margin-left: 205px;
+    margin-top: 75px;
+    margin-bottom: 40px;
+}
+
+.topic01{
+    font-size: 30px;
+    text-align: center;
+    margin-left: 230px;
+    color: white
+}
+
+.descri{
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 172px;
+    width: 280px;
+}

@@ -1,0 +1,142 @@
+.footer{
+    background-color: #172026;
+    width: full;
+    height: 565px;
+    padding-top: 80px;
+}
+
+* {
+    box-sizing: border-box;
+}
+ 
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.columnF {
+    float: left;
+    width: 18%;
+    padding: 10px;
+    height: 300px; 
+}
+
+.mTopic{
+    color: white;
+    font-weight: 400;
+    letter-spacing: -0.04em;
+    font-size: 1.25rem;
+    line-height: 1.2;
+    padding-bottom: 25px;
+    margin-left: 197px;
+}
+
+.list{
+    color: #b7b8bb;
+    font-weight: 400;
+    font-size: 1rem;
+    text-align: left;
+    list-style-type: none;
+    width: 200px;
+    margin-left: 160px;
+}
+
+.list li{
+    padding-bottom: 12px;
+}
+
+.col4{
+    margin-left: 185px;
+    letter-spacing: -0.02rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+    color: white;
+}
+
+.iconList{
+    margin-bottom: 35px;
+    margin-left: -11px;
+}
+
+.button03{
+    border-radius: 20px;
+    border: 1px solid white;
+    padding: 10px;
+    color: white;
+    background-color: #172026;
+    width: 45px;
+    height: 45px;
+    margin-left: 10px;
+}
+
+.icon{
+    width: 22px;
+    height: 22px;
+}
+
+.para01{
+    color: #fff;
+    letter-spacing: -0.02rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+}
+
+.buttonF {
+    border: 1px solid rgb(247, 16, 113);
+    color: white;
+    background-color: #172026;
+    border-radius: 50px;
+    padding: 14px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-top: 35px;
+    font-weight: bold;
+}
+
+.buttonF:hover{
+    background-color: rgb(247, 16, 113);
+}
+
+.foot1{
+    padding-top: 110px;
+}
+
+.imageF{
+    width: 150px;
+    margin-left: 210px;
+}
+
+.foot2{
+    color: #b5aeae;
+    font-size: 0.875rem;
+    letter-spacing: -0.02rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+    margin-left: 85px;
+    margin-top: 10px;
+}
+
+.foot2 p{
+    padding: 8px;
+}
+
+.button04{
+    background-color: rgb(247, 16, 113);
+    border-radius: 25px;
+    border: 1px solid rgb(247, 16, 113);
+    padding: 10px;
+    color: white;
+    width: 50px;
+    height: 50px;
+    margin-left: 470px;
+}
